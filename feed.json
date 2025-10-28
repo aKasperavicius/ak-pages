@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "AlexisKasperavicius.com",
+    "title": "Alexis Kasperavičius",
     "description": "",
     "home_page_url": "https://akasperavicius.github.io/ak-pages",
     "feed_url": "https://akasperavicius.github.io/ak-pages/feed.json",
@@ -13,15 +13,15 @@
             "id": "https://akasperavicius.github.io/ak-pages/hello-world.html",
             "url": "https://akasperavicius.github.io/ak-pages/hello-world.html",
             "title": "Hello World",
-            "summary": "This is a test page made with Publii and (hopefully) publsihed on GitHub. We'll see!",
-            "content_html": "<p> </p>\n<p>This is a test page made with Publii and (hopefully) publsihed on GitHub. We'll see!</p>",
+            "summary": "This is a test page made with Publii and (hopefully) published on GitHub. We'll see!",
+            "content_html": "<p> </p>\n<p>This is a test page made with Publii and (hopefully) published on GitHub. We'll see!</p>\n<p> </p>\n<figure class=\"post__image align-right\"><img loading=\"lazy\"  src=\"https://akasperavicius.github.io/ak-pages/media/posts/1/my-photo_2024-06-20_14_32_40-2.jpg\" alt=\"\" width=\"268\" height=\"335\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-xs.jpg 640w ,https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-sm.jpg 768w ,https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-md.jpg 1024w ,https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-lg.jpg 1366w ,https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-xl.jpg 1600w ,https://akasperavicius.github.io/ak-pages/media/posts/1/responsive/my-photo_2024-06-20_14_32_40-2-2xl.jpg 1920w\"></figure>",
             "author": {
                 "name": "Alexis Kasperavicius"
             },
             "tags": [
             ],
             "date_published": "2025-10-28T09:16:27-04:00",
-            "date_modified": "2025-10-28T09:16:27-04:00"
+            "date_modified": "2025-10-28T10:32:36-04:00"
         }
     ]
 }
